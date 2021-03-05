@@ -3,6 +3,7 @@
 
 int main(int argc, char **argv)
 {
+	MyClass c;
 	std::cout << "Hello world" << std::endl;
 	
 	std::cout << "this is a new line" <<std::endl;
